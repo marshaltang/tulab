@@ -6,21 +6,6 @@ Welcome to tulab's documentation!
 实验室工具 `客户端软件下载 <https://www.pgyer.com/tpst>`_ 如查看使用TPSTMobile过程中的调试服务原始数据，请登录 `实验室入网服务系统 <https://tpstmobile.t-union.com/ZjjkManagerService/login>`_ 如您在使用TPSTMobile过程中有疑问，请通过客户端摇一摇 或 请登录 `实验室tracup <https://app.tracup.com/projects/ab9d4037db144b2f0cf2d72f18363272/list>`_ 反馈您的问题。
 
 
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
    
 实验室资质
 ----------------
@@ -65,7 +50,21 @@ Contents
    history
    
 	
+Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project.
 
+.. note::
+
+   This project is under active development.
+
+Contents
+--------
+
+.. toctree::
+
+   usage
+   api
+   
 在本网站上查找信息
 --------------------------------
 

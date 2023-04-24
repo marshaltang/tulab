@@ -1,0 +1,34 @@
+=====================================
+JT/T-1059 交通一卡通移动支付技术规范
+=====================================
+
+本页面仅提供在线浏览的链接，相关版权归交通出版社所有
+
+JT/T 1059.1-2016 交通一卡通移动支付技术规范 第1部分：总则
+在线查看：http://jtst.mot.gov.cn/kfs/file/read/ab4fbaf9ccfbddbe64683a1b82b246f1
+
+JT/T 1059.2-2016 交通一卡通移动支付技术规范 第2部分：安全单元
+在线查看：http://jtst.mot.gov.cn/kfs/file/read/27f21ba9d714be2c9a8b05e7110e63c8
+
+JT/T 1059.3-2016 交通一卡通移动支付技术规范 第3部分：近场支付
+在线查看：http://jtst.mot.gov.cn/kfs/file/read/3fe4f984ab343c86ee5e39bcb510685f
+
+JT/T 1059.4-2016 交通一卡通移动支付技术规范 第4部分：远程支付
+在线查看：http://jtst.mot.gov.cn/kfs/file/read/0533ede3cdb85bf37e593b7af9bb4177
+
+JT/T 1059.5-2016 交通一卡通移动支付技术规范 第5部分：客户端软件
+在线查看：http://jtst.mot.gov.cn/kfs/file/read/f34313bed9f3387ca2b4524acb29d168
+
+JT/T 1059.6-2016 交通一卡通移动支付技术规范 第6部分：可信服务管理系统
+在线查看：http://jtst.mot.gov.cn/kfs/file/read/27752905b159e138f3a0f9869c3519e9
+
+JT/T 1059.7-2016 交通一卡通移动支付技术规范 第7部分：终端设备
+在线查看：http://jtst.mot.gov.cn/kfs/file/read/50050e4a92feb1619a134a1c38c5950d
+
+JT/T 1059.8-2016 交通一卡通移动支付技术规范 第8部分：检测项目
+在线查看：http://jtst.mot.gov.cn/kfs/file/read/6f8755366d441b7ee6110350bfd0a4ea
+
+
+
+
+
