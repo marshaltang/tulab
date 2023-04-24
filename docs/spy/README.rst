@@ -129,7 +129,7 @@ APDU的几种模式说明
 .. toctree::
    :maxdepth: 1
    
-   ../smartpicc/APDU
+   APDU
 
    
 

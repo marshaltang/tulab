@@ -10,6 +10,8 @@ SW1SW2含义说明
 
 .. Note :: SW1SW2含义说明
 
+`SW1SW2含义说明 <https://kdocs.cn/l/cvq9JpibKSz0>`_
+
 .. Note :: SW1SW2含义说明 val="61" name="More Data" 
 
 .. Note :: SW1SW2含义说明 val="62" name="Warning"
