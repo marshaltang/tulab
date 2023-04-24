@@ -7,7 +7,7 @@ copyright = '2019~2023, tulab'
 author = 'tulab'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.1'
 
 # -- General configuration
 
@@ -32,4 +32,6 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 language = 'zh_CN'
 # -- Options for EPUB output
+html_show_sourcelink = False
+html_last_updated_fmt = '%b %d, %Y'
 epub_show_urls = 'footnote'
